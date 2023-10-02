@@ -17,7 +17,7 @@
 ---
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EdenLevi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EdenLevi&langs_count=4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **EdenLevi/EdenLevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
