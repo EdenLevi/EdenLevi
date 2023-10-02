@@ -1,6 +1,11 @@
 ### Hi there 👋
+### I'm Eden Levi
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+### About me:
+- Computer Engineering Student at the Technion — Israel's Institute of Technology
+- Software Engineer at Intel Corporation
 
 <!--
 **EdenLevi/EdenLevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
